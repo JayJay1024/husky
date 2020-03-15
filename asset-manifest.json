@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/husky/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/husky/static/js/main.18ac806d.chunk.js",
+    "main.js.map": "/husky/static/js/main.18ac806d.chunk.js.map",
+    "runtime-main.js": "/husky/static/js/runtime-main.5c77d2e7.js",
+    "runtime-main.js.map": "/husky/static/js/runtime-main.5c77d2e7.js.map",
+    "static/css/2.2d82fa2a.chunk.css": "/husky/static/css/2.2d82fa2a.chunk.css",
+    "static/js/2.2add30d0.chunk.js": "/husky/static/js/2.2add30d0.chunk.js",
+    "static/js/2.2add30d0.chunk.js.map": "/husky/static/js/2.2add30d0.chunk.js.map",
+    "index.html": "/husky/index.html",
+    "precache-manifest.7dfc5055f0e49c145310a900d5ee7714.js": "/husky/precache-manifest.7dfc5055f0e49c145310a900d5ee7714.js",
+    "service-worker.js": "/husky/service-worker.js",
+    "static/css/2.2d82fa2a.chunk.css.map": "/husky/static/css/2.2d82fa2a.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/husky/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.2add30d0.chunk.js.LICENSE.txt": "/husky/static/js/2.2add30d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c77d2e7.js",
+    "static/css/2.2d82fa2a.chunk.css",
+    "static/js/2.2add30d0.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.18ac806d.chunk.js"
+  ]
+}
